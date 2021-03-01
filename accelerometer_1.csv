@@ -1,4 +1,4 @@
-timestamp,accuracy(more=better),acc_x[m/s^2],acc_y[m/s^2],acc_z[m/s^2]
+#timestamp,accuracy(more=better),acc_x[m/s^2],acc_y[m/s^2],acc_z[m/s^2]
 1279034942,3,1.9632454,2.2697031,9.356541
 1279034944,3,1.9632454,2.2601264,9.375694
 1279034946,3,1.9632454,2.2601264,9.394848
